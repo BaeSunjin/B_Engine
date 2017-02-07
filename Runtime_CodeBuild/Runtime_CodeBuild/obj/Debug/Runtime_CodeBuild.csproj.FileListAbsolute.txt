@@ -4,3 +4,6 @@ D:\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\bin\Debug\Runtime_CodeBuild.pdb
 D:\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\obj\Debug\Runtime_CodeBuild.csprojResolveAssemblyReference.cache
 D:\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\obj\Debug\Runtime_CodeBuild.exe
 D:\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\obj\Debug\Runtime_CodeBuild.pdb
+C:\Users\BSJ\Documents\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\bin\Debug\Runtime_CodeBuild.exe.config
+C:\Users\BSJ\Documents\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\obj\Debug\Runtime_CodeBuild.exe
+C:\Users\BSJ\Documents\B_Engine\Runtime_CodeBuild\Runtime_CodeBuild\obj\Debug\Runtime_CodeBuild.pdb

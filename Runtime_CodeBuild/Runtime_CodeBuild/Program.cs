@@ -15,7 +15,7 @@ namespace Runtime_CodeBuild
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Sourec Tree Test");
             System.IO.StreamReader myFile = 
                 new System.IO.StreamReader("D:\\B_Engine\\Runtime_CodeBuild\\Runtime_CodeBuild\\TestBuildClass.cs");
 
